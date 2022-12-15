@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2022:
+- **[May 6 - $525]** [Open Redirect at Instagram (Link Shim Bypass)](https://medium.com/@xer00/open-redirect-at-instagram-link-shim-bypass-ca733cdf0221) by [Xer00](https://twitter.com/Led_floyd_)
 - **[Oct 17 - $18750]** [Facebook SMS Captcha Was Vulnerable to CSRF Attack](https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980) by [Lokesh kumar](https://twitter.com/lokeshdlk77)
 - **[Sep 06 - $???]** [Group expert's pending expertise request leaking](https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html) by [DF](https://www.blogger.com/profile/09415214335815845109)
 - **[Sep 06 - $10,000]** [Abusing Self Hosted Github Runners at Facebook](https://marcyoung.us/post/zuckerpunch/) by [Marcus Young](https://github.com/myoung34)
